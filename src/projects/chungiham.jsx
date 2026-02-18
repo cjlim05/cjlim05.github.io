@@ -14,7 +14,7 @@ export default function Chungiham() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/smartguncabinet.png"
+                    src="./project/smartguncabinet.png"
                     alt="Smart Gun Cabinet"
                     className="hero-img"
                 />

@@ -14,7 +14,7 @@ export default function Iyak() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/iyakcover.webp"
+                    src="./project/iyakcover.webp"
                     alt="Iyak Context"
                     className="hero-img"
                 />

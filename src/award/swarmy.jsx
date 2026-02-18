@@ -14,7 +14,7 @@ export default function SwArmy() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/osamcover.webp"
+                    src="./project/osamcover.webp"
                     alt="Military Hackathon Cover"
                     className="hero-img"
                 />
@@ -56,7 +56,7 @@ export default function SwArmy() {
 
                 <div style={{ marginTop: '2rem', textAlign: 'center' }}>
                     <img
-                        src="/project/swaward.jpg"
+                        src="./project/swaward.jpg"
                         alt="SW Army Award Certificate"
                         style={{ maxWidth: '80%', borderRadius: '12px', border: '1px solid var(--glass-border)' }}
                     />

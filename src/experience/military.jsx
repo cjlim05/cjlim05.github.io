@@ -14,7 +14,7 @@ export default function Military() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/osamcover.webp"
+                    src="./project/osamcover.webp"
                     alt="Military Hackathon Cover"
                     className="hero-img"
                 />

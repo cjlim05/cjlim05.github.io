@@ -21,7 +21,7 @@ export default function Resume() {
                     <Link to="/" className="back-link">← Home</Link>
                     <div className="header-top">
                         <div className="profile-img-container">
-                            <img src="/profileimg.jpg" alt="임채주 프로필" className="resume-profile-img" />
+                            <img src="./profileimg.jpg" alt="임채주 프로필" className="resume-profile-img" />
                         </div>
                         <div className="header-content">
                             <h1>임채주</h1>

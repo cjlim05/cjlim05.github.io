@@ -14,7 +14,7 @@ export default function SwAcademy() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/swcover.webp"
+                    src="./project/swcover.webp"
                     alt="SW Academy Cover"
                     className="hero-img"
                 />
@@ -43,7 +43,7 @@ export default function SwAcademy() {
                     실무 프로젝트 기반의 학습을 통해 웹 개발, 데이터 처리, 협업 툴 활용 등 다양한 기술 스택을 익혔습니다.
                 </p>
                 <img
-                    src="/project/swcurriculum.png"
+                    src="./project/swcurriculum.png"
                     alt="SW Academy Curriculum"
                     className="curriculum-img"
                 />
@@ -56,7 +56,7 @@ export default function SwAcademy() {
                     성실하게 교육 과정을 이수하여 최종적으로 수료증을 획득하였습니다.
                 </p>
                 <img
-                    src="/project/swcertificate.png"
+                    src="./project/swcertificate.png"
                     alt="Completion Certificate"
                     style={{ maxWidth: '80%', margin: '2rem auto', display: 'block' }}
                 />

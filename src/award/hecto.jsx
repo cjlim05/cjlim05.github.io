@@ -14,7 +14,7 @@ export default function Hecto() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/hectoawardcover.webp"
+                    src="./project/hectoawardcover.webp"
                     alt="Hecto Award Cover"
                     className="hero-img"
                 />
@@ -56,7 +56,7 @@ export default function Hecto() {
 
                 <div className="cert-container">
                     <img
-                        src="/project/hecto.jpg"
+                        src="./project/hecto.jpg"
                         alt="Hecto Award Certificate"
                         className="award-img"
                     />

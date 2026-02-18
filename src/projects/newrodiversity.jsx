@@ -14,7 +14,7 @@ export default function Neurodiversity() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/newrodiversitycover.webp"
+                    src="./project/newrodiversitycover.webp"
                     alt="Neurodiversity Cover"
                     className="hero-img"
                 />
@@ -109,7 +109,7 @@ export default function Neurodiversity() {
                     이슈 트래킹과 커밋 히스토리 관리를 통해 개발 진행 상황을 투명하게 공유했습니다.
                 </p>
                 <img
-                    src="/project/neurodiversitygit.png"
+                    src="./project/neurodiversitygit.png"
                     alt="Git Collaboration Workflow"
                 />
             </section>

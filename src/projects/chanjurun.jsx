@@ -9,7 +9,7 @@ export default function Chanjurun() {
             {/* ===== HERO COVER ===== */}
             <div className="hero">
                 <img
-                    src="/project/chanjuruncover.png"
+                    src="./project/chanjuruncover.png"
                     alt="ChanjuRun Cover"
                     className="hero-img"
                 />
@@ -187,13 +187,13 @@ export default function Chanjurun() {
                 <h2>프로젝트 스트럭처</h2>
 
                 <h3>아키텍처</h3>
-                <img src="/project/chanjurunarchitecture.png" alt="System Architecture" />
+                <img src="./project/chanjurunarchitecture.png" alt="System Architecture" />
 
                 <h3 style={{ marginTop: '3rem' }}>ERD (Database Schema)</h3>
-                <img src="/project/chanjurunerd.png" alt="ERD" />
+                <img src="./project/chanjurunerd.png" alt="ERD" />
 
                 <h3 style={{ marginTop: '3rem' }}>서비스 팜플렛</h3>
-                <img src="/project/chanjurunpamplate.png" alt="Pamphlet" />
+                <img src="./project/chanjurunpamplate.png" alt="Pamphlet" />
             </section>
 
             <section className="section">

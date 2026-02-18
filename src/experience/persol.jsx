@@ -14,7 +14,7 @@ export default function Persol() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/persolkellycover.webp"
+                    src="./project/persolkellycover.webp"
                     alt="PERSOLKELLY Cover"
                     className="hero-img"
                 />
@@ -98,7 +98,7 @@ export default function Persol() {
             <section className="section">
                 <h2>수료증</h2>
                 <img
-                    src="/project/persolinternship.png"
+                    src="./project/persolinternship.png"
                     alt="Internship Certificate"
                     style={{ maxWidth: '80%', margin: '2rem auto', display: 'block' }}
                 />

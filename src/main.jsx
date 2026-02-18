@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 import Home from './home.jsx'
 import './theme.css'
 // Import pages (assuming they export default components, otherwise we'll wrap them)
@@ -18,7 +18,7 @@ import Resume from './resume/Resume.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/resume" element={<Resume />} />
@@ -39,6 +39,6 @@ createRoot(document.getElementById('root')).render(
         <Route path="/award/military" element={<SwArmy />} />
         <Route path="/award/hecto" element={<Hecto />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </StrictMode>,
 )

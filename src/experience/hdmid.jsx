@@ -14,7 +14,7 @@ export default function HdMedi() {
             <div className="hero">
                 <Link to="/" className="back-link">← Back to Home</Link>
                 <img
-                    src="/project/hdmedicover.webp"
+                    src="./project/hdmedicover.webp"
                     alt="HD Medi Cover"
                     className="hero-img"
                 />
@@ -115,7 +115,7 @@ export default function HdMedi() {
             <section className="section">
                 <h2>수료증</h2>
                 <img
-                    src="/project/hdmediinternship.png"
+                    src="./project/hdmediinternship.png"
                     alt="Internship Certificate"
                     style={{ maxWidth: '80%', margin: '2rem auto', display: 'block' }}
                 />
