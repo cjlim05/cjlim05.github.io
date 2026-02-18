@@ -35,7 +35,7 @@ export default function SwArmy() {
                     </div>
                     <div className="info-item">
                         <span className="info-label">Date</span>
-                        <span className="info-value">2022.12.01</span>
+                        <span className="info-value">2022.12.06</span>
                     </div>
                     <div className="info-item">
                         <span className="info-label">Organization</span>

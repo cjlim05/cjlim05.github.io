@@ -30,8 +30,8 @@ export default function Resume() {
                                 <span>📧 cjlim000523@gmail.com</span>
                                 <span>📱 010-8622-9529</span>
                                 <span>🚀 <a href="https://github.com/cjlim05" target="_blank" rel="noreferrer">github.com/cjlim05</a></span>
-                                <span>📝 <a href="https://www.notion.so/401212f60a9b498c8f14f7f3f2752fa5" target="_blank" rel="noreferrer">Portfolio (Notion)</a></span>
-                                <span>🔗 <a href="https://www.linkedin.com/in/%EC%B1%84%EC%A3%BC-%EC%9E%84-179b34323/" target="_blank" rel="noreferrer">LinkedIn</a></span>
+                                <span>📝 <a href="https://cjlim05.github.io/" target="_blank" rel="noreferrer">Portfolio</a></span>
+                                <span>🔗 <a href="https://www.linkedin.com/in/chaeju/" target="_blank" rel="noreferrer">LinkedIn</a></span>
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@ export default function Resume() {
                         <h2>외국어 능력</h2>
                         <div className="lang-grid">
                             <div className="lang-item"><strong>한국어 🇰🇷</strong><span>원어민</span></div>
-                            <div className="lang-item"><strong>영어 🇺🇸</strong><span>상급 (OPIC IH, 국제학교 3년 재학)</span></div>
+                            <div className="lang-item"><strong>영어 🇺🇸</strong><span>상급 (OPIC AL, 국제학교 3년 재학)</span></div>
                             <div className="lang-item"><strong>중국어 🇨🇳</strong><span>초급 (중국 거주 경험)</span></div>
                         </div>
                     </section>
